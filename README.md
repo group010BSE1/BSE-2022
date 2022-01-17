@@ -4,8 +4,8 @@ This repository is created to collect the assignment solutions for the subject S
 
 ## Group 10 Members
 
-1. Mbabali Faisal
-2. Egwau Godfrey
-3. Arinda Andrew
-4. Opio George Michael
-5. Mugabi Praise
+1. Mbabali Faisal 2021/BSE/070/PS
+2. Egwau Godfrey 2021/BSE/045/PS
+3. Arinda Andrew 2021/BSE/025/PS
+4. Opio George Michael 2021/BSE/111/PS
+5. Mugabi Praise 2021/BSE/074/PS
