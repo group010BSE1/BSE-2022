@@ -1,0 +1,6 @@
+X1 = int(input("value of X2 : " ))
+X2 = int(input("value of X1 : " ))
+Y1 = int(input("value of Y1 : " ))
+Y2 = int(input("value of Y2 : " ))
+d = (((X2 - X1)**2) + ((Y2 - Y1)**2))**(1/2)
+print(d)

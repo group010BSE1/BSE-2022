@@ -1,0 +1,6 @@
+C = int(input("C : "))
+r = float(input("r : "))
+n = int(input("n : "))
+t = int(input("t : "))
+p = float(C*((1 + (r/n))**t*n))
+print(p)
