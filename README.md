@@ -10,3 +10,4 @@ This repository is created to collect the assignment solutions for the subject S
 4. Opio George Michael 2021/BSE/111/PS
 5. Mugabi Praise 2021/BSE/074/PS
 6. Karemera Dandas Mujuni 2021/BSE/132/PS
+7. Lukwiya Mathew 2021/BSE/069/PS
