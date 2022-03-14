@@ -59,7 +59,7 @@ def process_file(file_object):
                     lowest_country = lines[:50].rstrip()
                 ### Count
                 count += 1
-            elif income_level_input == 2 and Income_Level[income_level_input-2] in lines: # Low Income
+            elif income_level_input == 2 and Income_Level[income_level_input-1] in lines: # Low Income
                 vaccinated_percentage = int(lines[57:61])
                 ### SUM
                 sum = sum + vaccinated_percentage
@@ -73,7 +73,7 @@ def process_file(file_object):
                     lowest_country = lines[:50].rstrip()
                 ### Count
                 count += 1
-            elif income_level_input == 3 and Income_Level[income_level_input-3] in lines: # Low Income
+            elif income_level_input == 3 and Income_Level[income_level_input-1] in lines: # Low Income
                 vaccinated_percentage = int(lines[57:61])
                 ### SUM
                 sum = sum + vaccinated_percentage
@@ -87,7 +87,7 @@ def process_file(file_object):
                     lowest_country = lines[:50].rstrip()
                 ### Count
                 count += 1
-            elif income_level_input == 4 and Income_Level[income_level_input-4] in lines: # Low Income
+            elif income_level_input == 4 and Income_Level[income_level_input-1] in lines: # Low Income
                 vaccinated_percentage = int(lines[57:61])
                 ### SUM
                 sum = sum + vaccinated_percentage
@@ -118,7 +118,7 @@ def process_file(file_object):
                     lowest_country = lines[:50].rstrip()
                 ### Count
                 count += 1
-            elif income_level_input == 2 and Income_Level[income_level_input-2] in lines: # Low Income
+            elif income_level_input == 2 and Income_Level[income_level_input-1] in lines: # Low Income
                 vaccinated_percentage = int(lines[57:61])
                 ### SUM
                 sum = sum + vaccinated_percentage
@@ -132,7 +132,7 @@ def process_file(file_object):
                     lowest_country = lines[:50].rstrip()
                 ### Count
                 count += 1
-            elif income_level_input == 3 and Income_Level[income_level_input-3] in lines: # Low Income
+            elif income_level_input == 3 and Income_Level[income_level_input-1] in lines: # Low Income
                 vaccinated_percentage = int(lines[57:61])
                 ### SUM
                 sum = sum + vaccinated_percentage
@@ -146,7 +146,7 @@ def process_file(file_object):
                     lowest_country = lines[:50].rstrip()
                 ### Count
                 count += 1
-            elif income_level_input == 4 and Income_Level[income_level_input-4] in lines: # Low Income
+            elif income_level_input == 4 and Income_Level[income_level_input-1] in lines: # Low Income
                 vaccinated_percentage = int(lines[57:61])
                 ### SUM
                 sum = sum + vaccinated_percentage
@@ -177,7 +177,7 @@ def process_file(file_object):
                     lowest_country = lines[:50].rstrip()
                 ### Count
                 count += 1
-            elif income_level_input == 2 and Income_Level[income_level_input-2] in lines: # Low Income
+            elif income_level_input == 2 and Income_Level[income_level_input-1] in lines: # Low Income
                 vaccinated_percentage = int(lines[57:61])
                 ### SUM
                 sum = sum + vaccinated_percentage
@@ -191,7 +191,7 @@ def process_file(file_object):
                     lowest_country = lines[:50].rstrip()
                 ### Count
                 count += 1
-            elif income_level_input == 3 and Income_Level[income_level_input-3] in lines: # Low Income
+            elif income_level_input == 3 and Income_Level[income_level_input-1] in lines: # Low Income
                 vaccinated_percentage = int(lines[57:61])
                 ### SUM
                 sum = sum + vaccinated_percentage
@@ -205,7 +205,7 @@ def process_file(file_object):
                     lowest_country = lines[:50].rstrip()
                 ### Count
                 count += 1
-            elif income_level_input == 4 and Income_Level[income_level_input-4] in lines: # Low Income
+            elif income_level_input == 4 and Income_Level[income_level_input-1] in lines: # Low Income
                 vaccinated_percentage = int(lines[57:61])
                 ### SUM
                 sum = sum + vaccinated_percentage
@@ -236,7 +236,7 @@ def process_file(file_object):
                     lowest_country = lines[:50].rstrip()
                 ### Count
                 count += 1
-            elif income_level_input == 2 and Income_Level[income_level_input-2] in lines: # Low Income
+            elif income_level_input == 2 and Income_Level[income_level_input-1] in lines: # Low Income
                 vaccinated_percentage = int(lines[57:61])
                 ### SUM
                 sum = sum + vaccinated_percentage
@@ -250,7 +250,7 @@ def process_file(file_object):
                     lowest_country = lines[:50].rstrip()
                 ### Count
                 count += 1
-            elif income_level_input == 3 and Income_Level[income_level_input-3] in lines: # Low Income
+            elif income_level_input == 3 and Income_Level[income_level_input-1] in lines: # Low Income
                 vaccinated_percentage = int(lines[57:61])
                 ### SUM
                 sum = sum + vaccinated_percentage
@@ -264,7 +264,7 @@ def process_file(file_object):
                     lowest_country = lines[:50].rstrip()
                 ### Count
                 count += 1
-            elif income_level_input == 4 and Income_Level[income_level_input-4] in lines: # Low Income
+            elif income_level_input == 4 and Income_Level[income_level_input-1] in lines: # Low Income
                 vaccinated_percentage = int(lines[57:61])
                 ### SUM
                 sum = sum + vaccinated_percentage
