@@ -1,10 +1,10 @@
 try:
-    file_name = open("project/measles.txt")   
+    file_name = open("measles.txt")   
 except:
     print("Un-able to open the file")
     exit
 
-file_name = open("project/measles.txt") 
+file_name = open("measles.txt") 
 output_file = input("Enter the output file : ")
 year = input("Enter the year : ")
 with open(output_file, "w") as file:
